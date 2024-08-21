@@ -1,7 +1,7 @@
 package com.example;
 
 import org.nd4j.linalg.dataset.api.iterator.DataSetIterator;
-import org.nd4j.linalg.dataset.api.iterator.impl.MnistDataSetIterator;
+
 
 public class MnistDataLoader {
 

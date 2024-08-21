@@ -1,0 +1,4 @@
+Nome: João Silva, Idade: 25
+Nome: Maria Souza, Idade: 30
+Nome: Carlos Oliveira, Idade: 28
+Nome: Ana Santos, Idade: 22
