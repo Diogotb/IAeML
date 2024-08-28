@@ -1,0 +1,27 @@
+{
+    "usuarios": [
+      { "id": 1, "nome": "João", "idade": 25, "cidade": "São Paulo" },
+      { "id": 2, "nome": "Maria", "idade": 30, "cidade": "Rio de Janeiro" },
+      { "id": 3, "nome": "Carlos", "idade": 28, "cidade": "Belo Horizonte" },
+      { "id": 4, "nome": "Ana", "idade": 22, "cidade": "Curitiba" },
+      { "id": 5, "nome": "Pedro", "idade": 35, "cidade": "São Paulo" },
+      { "id": 6, "nome": "Luciana", "idade": 27, "cidade": "Rio de Janeiro" },
+      { "id": 7, "nome": "Rafael", "idade": 24, "cidade": "Salvador" },
+      { "id": 8, "nome": "Fernanda", "idade": 29, "cidade": "São Paulo" },
+      { "id": 9, "nome": "Bruno", "idade": 31, "cidade": "Manaus" },
+      { "id": 10, "nome": "Beatriz", "idade": 26, "cidade": "Porto Alegre" }
+    ],
+    "produtos": [
+      { "id": 1, "nome": "Notebook", "preco": 3000 },
+      { "id": 2, "nome": "Smartphone", "preco": 1500 },
+      { "id": 3, "nome": "Tablet", "preco": 2000 },
+      { "id": 4, "nome": "Monitor", "preco": 800 },
+      { "id": 5, "nome": "Teclado Mecânico", "preco": 250 },
+      { "id": 6, "nome": "Mouse", "preco": 100 },
+      { "id": 7, "nome": "Impressora", "preco": 600 },
+      { "id": 8, "nome": "Cadeira Gamer", "preco": 900 },
+      { "id": 9, "nome": "Webcam", "preco": 200 },
+      { "id": 10, "nome": "Headset", "preco": 350 }
+    ]
+  }
+  

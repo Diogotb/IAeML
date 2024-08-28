@@ -1,0 +1,3 @@
+Aluno com a maior nota: Maria - Média: 9.0
+Aluno com a menor nota: Carlos - Média: 6.166666666666667
+Média geral da turma: 7.633333333333334
